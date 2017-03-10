@@ -10,6 +10,14 @@ import numpy as np
 import pandas as pd
 
 # This is a test change comment
+=======
+# Change 1
+# Change 2
+
+
+def f(x):
+    if x ==1:
+        print "Hello World"
 
 names = ['data1',
          'data2',
